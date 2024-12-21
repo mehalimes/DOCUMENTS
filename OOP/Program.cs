@@ -6,7 +6,7 @@ namespace OOP
 {
     public class Program
     {
-        static Dictionary<string ,string> phoneDirectory = new Dictionary<string, string>();
+        static Dictionary<string, string> phoneDirectory = new Dictionary<string, string>();
         static void addPerson()
         {
             Console.Clear();
@@ -31,7 +31,7 @@ namespace OOP
             Console.Write("Enter name : ");
 
             string name = Console.ReadLine();
-            phoneDirectory[name] = null;
+            phoneDirectory.Remove(name);
 
             Console.WriteLine("Person deleted successfully.");
             Console.ReadLine();
@@ -43,20 +43,21 @@ namespace OOP
 
             Console.Write("Enter the name of phone number to be found : ");
             string name = Console.ReadLine();
-            Person foundPerson = phoneDirectory.FirstOrDefault(x => x.Name == name);
-            Console.WriteLine($"Phone number is : {foundPerson.PhoneNumber}");
+            Console.WriteLine($"{name} - {phoneDirectory[name]}");
+
             Console.ReadLine();
             drawMenu();
-            
         }
         static void listAllDirectory()
         {
             Console.Clear();
             Console.WriteLine("\t All Phone Numbers");
-            phoneDirectory.ForEach(x =>
+
+            foreach(KeyValuePair<string, string> item in phoneDirectory)
             {
-                Console.WriteLine($"{x.Id} - {x.Name} - {x.PhoneNumber}");
-            });
+                Console.WriteLine($"{item.Key} - {item.Value}");
+            }
+
             Console.ReadLine();
             drawMenu();
         }
@@ -70,30 +71,33 @@ namespace OOP
             Console.WriteLine("2 - Delete Person");
             Console.WriteLine("3 - Find Phone Number");
             Console.WriteLine("4 - List All Directory");
-            Console.WriteLine("5 - Çıkış");
+            Console.WriteLine("5 - Exit");
 
             int choice = Convert.ToInt32(Console.ReadLine());
             switch(choice)
             {
                 case 1:
+                    addPerson();
                     break;
-
                 case 2:
+                    deletePerson();
                     break;
-
                 case 3:
+                    findPhoneNumber();
                     break;
                 case 4:
+                    listAllDirectory();
                     break;
                 case 5:
                 default:
-                    break;
-
+                    Console.WriteLine("Exited.");
+                    Console.ReadLine();
+                    return;
             }
         }
         static void Main(string[] args)
         {
-
+            drawMenu();
         }
     }
 }

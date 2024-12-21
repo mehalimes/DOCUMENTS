@@ -5,3 +5,10 @@ C:\Users\User\Desktop\ali_masaüstü\C#\OOP\obj\Debug\OOP.csproj.AssemblyReferen
 C:\Users\User\Desktop\ali_masaüstü\C#\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\ali_masaüstü\C#\OOP\obj\Debug\OOP.exe
 C:\Users\User\Desktop\ali_masaüstü\C#\OOP\obj\Debug\OOP.pdb
+C:\Users\casper\Desktop\ali_masaüstü\DOCUMENTS\OOP\bin\Debug\OOP.exe.config
+C:\Users\casper\Desktop\ali_masaüstü\DOCUMENTS\OOP\bin\Debug\OOP.exe
+C:\Users\casper\Desktop\ali_masaüstü\DOCUMENTS\OOP\bin\Debug\OOP.pdb
+C:\Users\casper\Desktop\ali_masaüstü\DOCUMENTS\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\ali_masaüstü\DOCUMENTS\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\ali_masaüstü\DOCUMENTS\OOP\obj\Debug\OOP.exe
+C:\Users\casper\Desktop\ali_masaüstü\DOCUMENTS\OOP\obj\Debug\OOP.pdb
