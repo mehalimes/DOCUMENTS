@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\Week2\obj\Debug\net8.0\Week2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\Week2\obj\Debug\net8.0\Week2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\Week2\obj\Debug\net8.0\Week2.AssemblyInfo.cs
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\Week2\obj\Debug\net8.0\Week2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\Week2\bin\Debug\net8.0\Week2.exe
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\Week2\bin\Debug\net8.0\Week2.deps.json
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\Week2\bin\Debug\net8.0\Week2.runtimeconfig.json
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\Week2\bin\Debug\net8.0\Week2.dll
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\Week2\bin\Debug\net8.0\Week2.pdb
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\Week2\obj\Debug\net8.0\Week2.dll
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\Week2\obj\Debug\net8.0\refint\Week2.dll
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\Week2\obj\Debug\net8.0\Week2.pdb
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\Week2\obj\Debug\net8.0\Week2.genruntimeconfig.cache
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\Week2\obj\Debug\net8.0\ref\Week2.dll
