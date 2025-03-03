@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\MyOwn\bin\Debug\net8.0\MyOwn.exe
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\MyOwn\bin\Debug\net8.0\MyOwn.deps.json
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\MyOwn\bin\Debug\net8.0\MyOwn.runtimeconfig.json
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\MyOwn\bin\Debug\net8.0\MyOwn.dll
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\MyOwn\bin\Debug\net8.0\MyOwn.pdb
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\MyOwn\obj\Debug\net8.0\MyOwn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\MyOwn\obj\Debug\net8.0\MyOwn.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\MyOwn\obj\Debug\net8.0\MyOwn.AssemblyInfo.cs
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\MyOwn\obj\Debug\net8.0\MyOwn.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\MyOwn\obj\Debug\net8.0\MyOwn.dll
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\MyOwn\obj\Debug\net8.0\refint\MyOwn.dll
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\MyOwn\obj\Debug\net8.0\MyOwn.pdb
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\MyOwn\obj\Debug\net8.0\MyOwn.genruntimeconfig.cache
+C:\Users\User\Desktop\ali_masaüstü\LABS\2425-SpringTermOOP\MyOwn\obj\Debug\net8.0\ref\MyOwn.dll
