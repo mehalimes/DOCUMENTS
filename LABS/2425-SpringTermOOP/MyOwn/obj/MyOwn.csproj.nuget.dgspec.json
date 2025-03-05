@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\ali_masaüstü\\LABS\\2425-SpringTermOOP\\MyOwn\\MyOwn.csproj": {}
+    "C:\\Users\\User\\Desktop\\ali_masaüstü\\Github\\DOCUMENTS\\LABS\\2425-SpringTermOOP\\MyOwn\\MyOwn.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\ali_masaüstü\\LABS\\2425-SpringTermOOP\\MyOwn\\MyOwn.csproj": {
+    "C:\\Users\\User\\Desktop\\ali_masaüstü\\Github\\DOCUMENTS\\LABS\\2425-SpringTermOOP\\MyOwn\\MyOwn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\ali_masaüstü\\LABS\\2425-SpringTermOOP\\MyOwn\\MyOwn.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\ali_masaüstü\\Github\\DOCUMENTS\\LABS\\2425-SpringTermOOP\\MyOwn\\MyOwn.csproj",
         "projectName": "MyOwn",
-        "projectPath": "C:\\Users\\User\\Desktop\\ali_masaüstü\\LABS\\2425-SpringTermOOP\\MyOwn\\MyOwn.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\ali_masaüstü\\Github\\DOCUMENTS\\LABS\\2425-SpringTermOOP\\MyOwn\\MyOwn.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\ali_masaüstü\\LABS\\2425-SpringTermOOP\\MyOwn\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\ali_masaüstü\\Github\\DOCUMENTS\\LABS\\2425-SpringTermOOP\\MyOwn\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
