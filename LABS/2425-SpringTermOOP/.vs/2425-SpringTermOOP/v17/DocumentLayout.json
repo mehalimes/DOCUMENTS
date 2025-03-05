@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\DOCUMENTS\\LABS\\2425-SpringTermOOP\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F50CFAE5-E0BA-4BA5-B305-BF25AC38A282}|Week4\\Week4.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\documents\\labs\\2425-springtermoop\\week4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F50CFAE5-E0BA-4BA5-B305-BF25AC38A282}|Week4\\Week4.csproj|solutionrelative:week4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F50CFAE5-E0BA-4BA5-B305-BF25AC38A282}|Week4\\Week4.csproj|c:\\users\\user\\desktop\\ali_masa\u00FCst\u00FC\\github\\documents\\labs\\2425-springtermoop\\week4\\classes\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F50CFAE5-E0BA-4BA5-B305-BF25AC38A282}|Week4\\Week4.csproj|solutionrelative:week4\\classes\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,32 +30,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Node.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\DOCUMENTS\\LABS\\2425-SpringTermOOP\\Week4\\Classes\\Node.cs",
-              "RelativeDocumentMoniker": "Week4\\Classes\\Node.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\DOCUMENTS\\LABS\\2425-SpringTermOOP\\Week4\\Classes\\Node.cs",
-              "RelativeToolTip": "Week4\\Classes\\Node.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowEYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T13:44:20.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\DOCUMENTS\\LABS\\2425-SpringTermOOP\\Week4\\Program.cs",
-              "RelativeDocumentMoniker": "Week4\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ali_masa\u00FCst\u00FC\\Github\\DOCUMENTS\\LABS\\2425-SpringTermOOP\\Week4\\Program.cs",
-              "RelativeToolTip": "Week4\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T13:43:02.21Z",
-              "EditorCaption": ""
             }
           ]
         }
